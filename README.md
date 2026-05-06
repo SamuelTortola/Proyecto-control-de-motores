@@ -160,7 +160,7 @@ Proyecto-control-de-motores/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/Proyecto-control-de-motores.git
+git clone https://github.com/SamuelTortola/Proyecto-control-de-motores.git
 cd Proyecto-control-de-motores
 ```
 
@@ -191,7 +191,7 @@ python main.py
 
 ## 📌 Estado del proyecto
 
-🚧 En desarrollo
+🚧 Finalizado
 
 Funcionalidades implementadas:
 
